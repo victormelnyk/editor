@@ -1,1 +1,2 @@
-alert('editor');
+var foo = bar;
+alert(foo);
