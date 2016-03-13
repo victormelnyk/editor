@@ -3,7 +3,13 @@ module.exports = {
   "globals": {
     "angular": true,
     "_": true,
-    "window": true
+    "window": true,
+
+    "describe": true,
+    "expect": true,
+    "iit": true,
+    "inject": true,
+    "it": true
   },
   "rules": {
     "require-jsdoc": 0,
