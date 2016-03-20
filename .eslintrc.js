@@ -5,11 +5,15 @@ module.exports = {
     "_": true,
     "window": true,
 
+    "beforeEach": true,
     "describe": true,
     "expect": true,
     "iit": true,
     "inject": true,
-    "it": true
+    "it": true,
+    "spyOn": true,
+
+    "resolvePromise": true
   },
   "rules": {
     "require-jsdoc": 0,
