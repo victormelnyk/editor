@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": "google",
+  "extends": "airbnb/base",
   "globals": {
     "window": true
   },
