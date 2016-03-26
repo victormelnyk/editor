@@ -1,1 +1,1 @@
-var foo = 'test';
+var foo = bar;

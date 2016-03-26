@@ -1,1 +1,1 @@
-# editor
+# ESLint config

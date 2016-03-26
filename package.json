@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/victormelnyk/editor#readme",
   "devDependencies": {
-    "eslint": "^2.3.0",
+    "eslint": "^2.5.1",
+    "eslint-config-airbnb": "^6.2.0",
     "eslint-config-google": "^0.4.0"
   }
 }
