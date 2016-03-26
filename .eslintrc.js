@@ -18,7 +18,7 @@ module.exports = {
   "rules": {
     "require-jsdoc": 0,
     "valid-jsdoc": 0,
-    "one-var": [2, 'always'],
+    "one-var": 0,
     "max-len": [2, 100, 120, {
       "ignoreUrls": true,
       "ignoreComments": true
